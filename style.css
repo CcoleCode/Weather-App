@@ -1,0 +1,31 @@
+* {
+  font-family: sans-serif;
+
+
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  color: #fff;
+}
+
+h2 {
+  text-align: center;
+  color: #fff;
+}
+
+body {
+  background-image: url('https://i.pinimg.com/736x/56/a9/ca/56a9ca4859fd4d1b4161006387bb2cf5--storm-pictures-amazing-photos.jpg');
+  height: 150%;
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+#show-weather {
+  text-align: center;
+  justify-content: center;
+
+
+}
